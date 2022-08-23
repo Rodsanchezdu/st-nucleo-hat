@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "BOB-12009")(type "Legacy")(uri "C:/Users/rober/Google Drive/ASUS SS/UN/ANSV/ELectronica/LIB_BOB-12009/BOB-12009/KiCad/BOB-12009.lib")(options "")(descr ""))
+  (lib (name "NUCLEO-F746ZG")(type "Legacy")(uri "C:/Users/rober/Google Drive/ASUS SS/UN/ANSV/ELectronica/NUCLEO-F746ZG_arduino/NUCLEO-F746ZG.lib")(options "")(descr ""))
+  (lib (name "eec")(type "Legacy")(uri "C:/Users/rober/Google Drive/ASUS SS/UN/ANSV/ELectronica/UNK_SparkFun_BOB-12009/eec.lib")(options "")(descr ""))
+  (lib (name "NUCLEO-F429ZI")(type "Legacy")(uri "C:/Users/rober/Google Drive/ASUS SS/UN/ANSV/ELectronica/NUCLEO-F429ZI/NUCLEO-F429ZI.lib")(options "")(descr "")(disabled))
+)

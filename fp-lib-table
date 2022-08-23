@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "eec")(type "KiCad")(uri "C:/Users/rober/Google Drive/ASUS SS/UN/ANSV/ELectronica/UNK_SparkFun_BOB-12009/eec.pretty")(options "")(descr ""))
+  (lib (name "NUCLEO-F746ZG_arduino")(type "KiCad")(uri "C:/Users/rober/Google Drive/ASUS SS/UN/ANSV/ELectronica/NUCLEO-F746ZG_arduino.pretty")(options "")(descr ""))
+)
